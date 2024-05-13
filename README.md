@@ -33,4 +33,4 @@ The hotel management software project is an information system designed to help 
    Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## LICENSE
-   This project is licensed under the [MIT License](LICENSE).
+   This project is licensed under the [MIT License](./LICENSE.txt).
