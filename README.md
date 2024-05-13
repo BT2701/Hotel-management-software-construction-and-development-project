@@ -19,13 +19,13 @@ The hotel management software project is an information system designed to help 
 ## USING
 1. **run file 'src/GUI/mainGUI.java'**
 2. **login**
-   ![alt text](image.png)
+   ![alt text](README_IMG/image.png)
 3. **Management Interface**
-   ![alt text](image-1.png)
+   ![alt text](README_IMG/image-1.png)
 4. **Reception Interface**
-   ![alt text](image-2.png)
+   ![alt text](README_IMG/image-2.png)
 5. **Admin Interface**
-   ![alt text](image-3.png)
+   ![alt text](README_IMG/image-3.png)
 6. **Screens and other functions**
    Please experience the screens and features in the system. Wishing you a great experience ^^.
 
@@ -33,4 +33,4 @@ The hotel management software project is an information system designed to help 
     Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## LICENSE
-    This project is licensed under the [MIT License](LICENSE).
+    This project is licensed under the [MIT License](LICENSE.txt).
