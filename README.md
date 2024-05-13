@@ -13,7 +13,10 @@ The hotel management software project is an information system designed to help 
 5. **jCalendar**
    [Download jCalendar here](http://www.java2s.com/Code/Jar/j/Downloadjcalendar132jar.htm)
 6. **Project**
-   <pre>git clone https://github.com/BT2701/Hotel-management-software-construction-and-development-project.git
+   <pre>
+   ```bash
+   git clone https://github.com/BT2701/Hotel-management-software-construction-and-development-project.git
+   ```
    </pre>
 7. **Import Database**
   open file 'Database/qlks_cnpm.sql' in phpMyAdmin (Xampp tool) and run file
