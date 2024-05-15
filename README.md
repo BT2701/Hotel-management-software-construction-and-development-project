@@ -28,7 +28,7 @@ The hotel management software project is an information system designed to help 
     <img src="README_IMG/forgot2.gif" alt="alt text" style="max-width:30%; height:100%;">
    </div>
 3. **Management Interface**
-   ![alt text](README_IMG/quanly-ezgif.com-video-to-gif-converter.gif)
+   ![alt text](README_IMG/quanly.gif)
 4. **Reception Interface**
    ![alt text](README_IMG/letan.gif)
 5. **Admin Interface**
