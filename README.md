@@ -23,16 +23,23 @@ The hotel management software project is an information system designed to help 
 1. **run file 'src/GUI/mainGUI.java'**
 2. **login/sign up/forgot password**
    <div align="center">
-      <a href="#"><img src="README_IMG/login.gif" alt="alt text" style="width:30%;"></a>
-      <a href="#"><img src="README_IMG/change.gif" alt="alt text" style="width:30%; "></a>
-      <a href="#"><img src="README_IMG/forgot2.gif" alt="alt text" style="width:30%; "></a>
+      <a href="#"><img src="README_IMG/login.gif" alt="alt text" style="width:50%;"></a>
+      <a href="#"><img src="README_IMG/change.gif" alt="alt text" style="width:50%; "></a>
+      <a href="#"><img src="README_IMG/forgot2.gif" alt="alt text" style="width:50%; "></a>
    </div>
 3. **Management Interface**
-   ![alt text](README_IMG/quanly.gif)
+   <div align="center">
+   <img src="README_IMG/quanly.gif" alt="alt text" style="width:70%; ">
+   </div>
+   
 4. **Reception Interface**
-   ![alt text](README_IMG/letan.gif)
+   <div align="center">
+   <img src="README_IMG/letan.gif" alt="alt text" style="width:70%; ">
+   </div>
 5. **Admin Interface**
-   ![alt text](README_IMG/image-3.png)
+   <div align="center">
+   <img src="README_IMG/image-3.png" alt="alt text" style="width:70%; ">
+   </div>
 6. **Screens and other functions**
    Please experience the screens and features in the system. Wishing you a great experience ^^.
 
