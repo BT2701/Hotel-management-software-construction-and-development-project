@@ -22,11 +22,11 @@ The hotel management software project is an information system designed to help 
 ## USING
 1. **run file 'src/GUI/mainGUI.java'**
 2. **login/sign up/forgot password**
-   <div style="display:flex; max-height:100px;">
-    <img src="README_IMG/login.gif" alt="alt text" style="max-width:30%; height:100%;">
-    <img src="README_IMG/change.gif" alt="alt text" style="max-width:30%; height:100%;">
-    <img src="README_IMG/forgot2.gif" alt="alt text" style="max-width:30%; height:100%;">
-   </div>
+   <div style="display:flex;height:100;">
+      <img src="README_IMG/login.gif" alt="alt text" style="width:30%; height:100%;">
+      <img src="README_IMG/change.gif" alt="alt text" style="width:30%; height:100%;">
+      <img src="README_IMG/forgot2.gif" alt="alt text" style="width:30%; height:100%;">
+    </div>
 3. **Management Interface**
    ![alt text](README_IMG/quanly.gif)
 4. **Reception Interface**
